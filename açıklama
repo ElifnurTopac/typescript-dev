@@ -1,0 +1,26 @@
+Soru   Konu                  Kısaca Ne Yapıyoruz                        
+ 
+ 1     Generic Fonksiyon     İki diziyi birleştiriyoruz                 
+ 2     Type Guard            Araç tipine göre işlem yapıyoruz           
+ 3     Private Property      Logger sınıfı ile kayıt tutuyoruz          
+ 4     keyof                 Nesne içinden özellik çekiyoruz            
+ 5     Function Overloading  ID veya isme göre arama yapıyoruz          
+ 6     Generic Class         Basit bir hafıza (cache) sistemi kuruyoruz 
+ 7     Partial & Readonly    Kullanıcı bilgilerini güncelliyoruz        
+ 8     Rest Parameters       Girilen sayıları topluyoruz                
+ 9     Abstract Class        Daire alanını hesaplıyoruz                 
+ 10    Static Üyeler         Çevre hesaplayan sınıf yapıyoruz           
+
+
+ Soru   Konu                    Kısaca Ne Yapıyoruz                     
+ 
+ 11    Conditional Types       Promise içindeki tipi buluyoruz         
+ 12    infer                   Fonksiyonun dönüş tipini çıkarıyoruz    
+ 13    Mapped Types            Getter fonksiyonları oluşturuyoruz      
+ 14    Recursive Types         Derin Readonly türü tanımlıyoruz        
+ 15    Mapped & Conditional    Belirli tipteki alanları seçiyoruz      
+ 16    Branded Types           UserID ve PostID tiplerini ayırıyoruz   
+ 17    Distributed             Union tipleri filtreliyoruz             
+ 18    infer                   Son parametrenin tipini alıyoruz        
+ 19    Array infer             Dizi eleman tipini çözüyoruz            
+ 20    Template Literal Types  Route parametrelerinden type üretiyoruz 
